@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hara
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hara\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hara()
+comment2.params=
+comment2.target=int\ getHp()
+comment3.params=hp
+comment3.target=void\ setHp(int)
+comment4.params=
+comment4.target=void\ updateHpImage()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ movement()
+comment7.params=
+comment7.target=void\ jump()
+comment8.params=
+comment8.target=void\ applyGravity()
+comment9.params=
+comment9.target=void\ hit()
+numComments=10

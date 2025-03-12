@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Level3
+comment1.params=hp
+comment1.target=Level3(int)
+comment10.params=
+comment10.target=void\ munculBulet()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ bergulir()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ updateTimer()
+comment6.params=
+comment6.target=void\ check()
+comment7.params=
+comment7.target=void\ hp()
+comment8.params=
+comment8.target=void\ muncul()
+comment9.params=
+comment9.target=void\ munculStar()
+numComments=11
